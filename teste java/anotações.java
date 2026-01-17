@@ -1,4 +1,11 @@
-// import java.util.Scanner;
+// import java.util.Scanner; para Permitir o "leia";
+
+
+//import java.util.Arrays; isso é para printar Vetores e matrizes;
+//System.out.println(Arrays.deepToString(matriz)); ex de como printar matrizes
+//System.out.println(Arrays.toString(vetor)); Exemplo De Como printar o Vetor;
+
+
 
 // Scanner sc = new Scanner(System.in);
 
@@ -44,4 +51,21 @@
 //     for (int j = 0; j < 3; j++) {
 //         m[i][j] = sc.nextInt();
 //     }
+// }
+
+//switch (opcao) {
+//     case 1:
+//         // código da opção 1
+//         break;
+
+//     case 2:
+//         // código da opção 2
+//         break;
+
+//     case 3:
+//         // código da opção 3
+//         break;
+
+//     default:
+//         // caso nenhuma opção seja válida
 // }
