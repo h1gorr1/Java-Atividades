@@ -1,10 +1,10 @@
  //muito grande, to a fim de fzr não :)
- import java.util.Scanner;
- public class Ex16 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+//  import java.util.Scanner;
+//  public class Ex16 {
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
         
-    }
- }
+//     }
+//  }
     
 

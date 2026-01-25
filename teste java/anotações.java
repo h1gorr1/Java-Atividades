@@ -69,3 +69,6 @@
 //     default:
 //         // caso nenhuma opção seja válida
 // }
+
+//Arrays.toString(vetor);        Vetor
+// Arrays.deepToString(matriz); Matrizes
