@@ -25,5 +25,13 @@ public class ex21 {
         double media = soma/4;
 
         System.out.format("O Aluno Tem a Nota %f !!! a média dele é de %f",soma,media);
+
+        if(media >= 6){
+            System.out.println("O Aluno Está Aprovado Com A Nota : " + media);
+        }else if(media >= 3 && media < 6){
+            System.out.format("O Aluno Está De Recuperação Com A Nota: %f",media);
+        }else{
+            System.out.format("O Aluno Foi Reprovado Com A Nota: %f ",media);
+        }
     }
 }
