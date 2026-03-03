@@ -20,7 +20,7 @@ public class ex20 {
     System.out.println("Digite UM Valor Para C ");
     int C = sc.nextInt();
 
-    double delta = (a*a + )
+    // double delta = ( + )
     
     
     }

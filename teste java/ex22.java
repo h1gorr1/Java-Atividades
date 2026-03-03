@@ -15,5 +15,10 @@ public class ex22 {
         int valor2 = sc.nextInt();
 
         if(valor1 > valor2){
-            System.out.println("O Valor 1 é Maior Do Que O Valor 2! ");
+            System.out.format("%d,  %d",valor2,valor1);
+        }else{
+            System.out.format("%d, %d", valor1,valor2);
+        }
+
+    }
 }
