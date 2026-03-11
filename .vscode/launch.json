@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex19",
+            "request": "launch",
+            "mainClass": "ex19",
+            "projectName": "Java-Atividades_95824486"
+        },
+        {
+            "type": "java",
+            "name": "ex18",
+            "request": "launch",
+            "mainClass": "ex18",
+            "projectName": "Java-Atividades_95824486"
+        },
+        {
+            "type": "java",
+            "name": "ex_cargo",
+            "request": "launch",
+            "mainClass": "ex_cargo",
+            "projectName": "Java-Atividades_95824486"
+        },
+        {
+            "type": "java",
             "name": "Ex6vetores",
             "request": "launch",
             "mainClass": "Ex6vetores",
