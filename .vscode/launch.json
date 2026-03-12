@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex40funcao",
+            "request": "launch",
+            "mainClass": "ex40funcao",
+            "projectName": "Java-Atividades_95824486"
+        },
+        {
+            "type": "java",
+            "name": "ex34funcao",
+            "request": "launch",
+            "mainClass": "ex34funcao",
+            "projectName": "Java-Atividades_95824486"
+        },
+        {
+            "type": "java",
             "name": "ex19",
             "request": "launch",
             "mainClass": "ex19",
