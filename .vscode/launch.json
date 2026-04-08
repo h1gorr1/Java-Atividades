@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "recursiva3",
+            "request": "launch",
+            "mainClass": "recursiva3",
+            "projectName": "Java-Atividades_95824486"
+        },
+        {
+            "type": "java",
+            "name": "recursiva2",
+            "request": "launch",
+            "mainClass": "recursiva2",
+            "projectName": "Java-Atividades_95824486"
+        },
+        {
+            "type": "java",
+            "name": "recursiva1",
+            "request": "launch",
+            "mainClass": "recursiva1",
+            "projectName": "Java-Atividades_95824486"
+        },
+        {
+            "type": "java",
             "name": "ex40funcao",
             "request": "launch",
             "mainClass": "ex40funcao",
