@@ -8,7 +8,7 @@ public class recursiva5 {
         }
         return n * fatorial(n-1);
     }
-    public static void main(String [] arrays){
+    public static void main(String [] args){
         System.out.println(fatorial(5));
     }
     
